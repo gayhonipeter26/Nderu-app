@@ -1,21 +1,25 @@
 <script setup>
+import posImg from '../assets/projects/pos.jpg'
+import enquiryImg from '../assets/projects/enquiry.jpg'
+import marketplaceImg from '../assets/projects/marketplace.jpg'
+
 const projects = [
   {
     title: "Retail POS System",
     description: "A modern POS with inventory tracking, sales analytics, and receipt management.",
-    image: "/projects/pos.jpg",
+    image: posImg,
     link: "#"
   },
   {
     title: "Student Enquiry Platform",
     description: "A web app for students and professors to manage enquiries and feedback.",
-    image: "/projects/enquiry.jpg",
+    image: enquiryImg,
     link: "#"
   },
   {
     title: "Freelance Marketplace",
     description: "A niche marketplace connecting African software engineers with global clients.",
-    image: "/projects/marketplace.jpg",
+    image: marketplaceImg,
     link: "#"
   }
 ]
