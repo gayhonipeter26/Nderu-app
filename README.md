@@ -1,8 +1,6 @@
 # Nderu App - Portfolio Website
 
-![Portfolio Preview](![Home Preview](https://github.com/username/nderu-app/raw/main/assets/home.png)
-
-) <!-- Optional screenshot if you have one -->
+ <!-- Optional screenshot if you have one -->
 
 A modern, responsive portfolio website built with **Vue 3** and **Vite** to showcase projects, skills, and contact information. This project demonstrates best practices in frontend development, component-based architecture, and modern styling.
 
